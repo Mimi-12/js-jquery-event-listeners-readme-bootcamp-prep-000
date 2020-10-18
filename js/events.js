@@ -1,7 +1,7 @@
 //define functions here
 
-function paragraphSelector(){
-  return $("p");
+function getIt(){
+  return $("Hey");
   }
 // call functions here
 return $("p")
