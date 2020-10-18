@@ -1,10 +1,8 @@
 //define functions here
 
-function getIt(){
-$(document).ready(function(){
-$("p").click(function()){
-  $("p").click("Hey");
-)}
+function paragraphSelector(){
+  return $("p");
+  }
 // call functions here
 return $("p")
 });
